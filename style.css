@@ -1,0 +1,33 @@
+body
+{
+    
+
+}
+
+.menu
+{
+    display: flex;
+    margin-bottom:50px;
+    justify-content: center;
+    height: 100px;
+    background-color:cornsilk ;
+}
+
+.menu a
+{
+    font-size: 30px;
+    justify-content: space-around;
+    margin-block: 50px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    padding: 0 20px;
+
+}
+
+.nom
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
